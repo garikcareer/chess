@@ -13,8 +13,6 @@ will handle the actionEvent.
 This class also has a thread which always keep on going as long the program is up. This thread will keep calling
 a method from the Client's class to see who's turn it is. 
 
-(add names here)
-@author Jonathon Brandt 
 @see TileButtons
 @see Pieces
 @see CheckKing

@@ -9,8 +9,6 @@ import javax.swing.*;
 of the sockets that are connected with the server. And it will assign each player to play a game against another
 player. This server is responsible for passing a message from one client to it's opposing client
 
-(add names here)
-@author Jonathon Brandt 
 @see TileButtons
 @see Pieces
 @see CheckKing
